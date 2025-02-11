@@ -2,3 +2,5 @@ FastAPI
 uvicorn
 pydantic
 typing_extensions
+pytest
+requests
